@@ -1,0 +1,34 @@
+{
+  "name": "FishWade/parallel-ranking",
+  "description": "parallel ranking",
+  "type": "library",
+  "authors": [
+    {
+      "name": "FishWade",
+      "email": "yuwei5810@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.6"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.laravel-china.org"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "FishWade\\ParallelRanking\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FishWade\\ParallelRanking\\Test\\": "test"
+    }
+  }
+}
