@@ -1,10 +1,10 @@
 {
-  "name": "fish-wade/parallel-ranking",
+  "name": "fishwade/parallel-ranking",
   "description": "parallel ranking",
   "type": "library",
   "authors": [
     {
-      "name": "FishWade",
+      "name": "fishwade",
       "email": "yuwei5810@gmail.com"
     }
   ],
